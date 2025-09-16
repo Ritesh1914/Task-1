@@ -1,4 +1,4 @@
-# Simple Node Express Hello World App with dockr and docker compose
+# Simple Node Express Hello World App with docker and docker compose
 
 This project is a simple Node.js + Express web application that is first run locally, then containerized with Docker, and finally deployed using Docker Compose.
 
